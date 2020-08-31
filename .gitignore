@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# production
+/backend/build
+/backend/bin
+/backend/obj
+/backend/.vs
+
+# Python
+*.py[cod]
+__pycache__
